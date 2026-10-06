@@ -222,6 +222,3 @@ __marimo__/
 
 #Reg cache
 cache/
-
-#venv
-venv/
