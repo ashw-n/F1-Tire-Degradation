@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Reg cache
+cache/
+
+#venv
+venv/
